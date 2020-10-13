@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/windows,androidstudio,java
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,androidstudio,java
+# Created by https://www.toptal.com/developers/gitignore/api/windows,java,androidstudio
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,java,androidstudio
 
 ### Java ###
 # Compiled class file
@@ -186,4 +186,4 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,androidstudio,java
+# End of https://www.toptal.com/developers/gitignore/api/windows,java,androidstudio
